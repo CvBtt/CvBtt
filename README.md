@@ -1,6 +1,6 @@
 # About me
 
-<img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVzcHU5dHhkNWszMGZldnQ0aXphemw4dm83Zjdtb3RhaWdtb2JkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vn9UZkiAeTNE22vZSF/giphy.gif" />
+<img align="right" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVzcHU5dHhkNWszMGZldnQ0aXphemw4dm83Zjdtb3RhaWdtb2JkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vn9UZkiAeTNE22vZSF/giphy.gif" />
 
 ```python
 def main():
@@ -14,7 +14,7 @@ def main():
 
 
 # Languages and Tools
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left"></h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachespark/apachespark-original-wordmark.svg" alt="cplusplus" width="40" height="40"/> </a> 
