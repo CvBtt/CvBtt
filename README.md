@@ -1,6 +1,6 @@
 # About me
 
-<img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg1aGJlaTduM2l5aXRneTg0N3U4NTZsajVlMzV6aGg3cTRoNGVrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h3uncEJIKYTSmpTLWQ/giphy.webp" />
+<img align="right" width="300" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg1aGJlaTduM2l5aXRneTg0N3U4NTZsajVlMzV6aGg3cTRoNGVrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h3uncEJIKYTSmpTLWQ/giphy.webp" />
 
 ```python
 def main():
