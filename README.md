@@ -1,7 +1,7 @@
 # About me
 
 <img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVzcHU5dHhkNWszMGZldnQ0aXphemw4dm83Zjdtb3RhaWdtb2JkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vn9UZkiAeTNE22vZSF/giphy.gif" />
-
+<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/vn9UZkiAeTNE22vZSF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/vn9UZkiAeTNE22vZSF">via GIPHY</a></p>
 ```python
 def main():
     name = "Caio Bertti"
