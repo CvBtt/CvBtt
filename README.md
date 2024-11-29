@@ -1,6 +1,6 @@
 # About me
 
-
+<img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnY1anVyamRhd2R3ZHhrMWkweWJodmYyNmxkajRpM3Z0Ym03bTlrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriNXMQg7NOXBzR9C/giphy.webp" />
 ```python
 def main():
     name = "Caio Bertti"
