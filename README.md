@@ -1,6 +1,7 @@
 # About me
 
 <img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnY1anVyamRhd2R3ZHhrMWkweWJodmYyNmxkajRpM3Z0Ym03bTlrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriNXMQg7NOXBzR9C/giphy.webp" />
+
 ```python
 def main():
     name = "Caio Bertti"
@@ -10,7 +11,10 @@ def main():
     university = "Universidade de São Paulo"
 
 ```
+
+
 # Languages and Tools
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachespark/apachespark-original-wordmark.svg" alt="cplusplus" width="40" height="40"/> </a> 
