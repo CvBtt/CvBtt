@@ -1,6 +1,6 @@
 ## About me
+<div class="tenor-gif-embed" data-postid="7822480" data-share-method="host" data-aspect-ratio="1.33" data-width="100%"><a href="https://tenor.com/view/spectrum-gif-7822480">Spectrum GIF</a>from <a href="https://tenor.com/search/spectrum-gifs">Spectrum GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 ```python
 def main() 
