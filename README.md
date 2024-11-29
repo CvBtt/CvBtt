@@ -2,7 +2,7 @@
 
 
 ```python
-def main() 
+def main():
     name = "Caio Bertti"
     acknowledgements = "Data Scientist/Physics"
 
